@@ -1,0 +1,10 @@
+//
+// Created by Kiro47 on 5/10/18.
+// Copyright (c) 2018 Kiro47 
+// For more information see LICENSE and FULL_LICENSE files.
+//
+
+#ifndef SMARTDISKMONITOR_SMARTDISKMONITOR_H
+#define SMARTDISKMONITOR_SMARTDISKMONITOR_H
+
+#endif //SMARTDISKMONITOR_SMARTDISKMONITOR_H

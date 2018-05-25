@@ -3,4 +3,4 @@ project(SmartDiskMonitor C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(SmartDiskMonitor SmartDiskMonitor/SmartDiskMonitor.c SmartDiskMonitor/SmartDiskMonitor.h)
+add_executable(SmartDiskMonitor client/src/main.c)

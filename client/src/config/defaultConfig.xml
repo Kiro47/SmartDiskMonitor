@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+
+    <ProgramInfo>
+        <Version>
+            0.1
+        </Version>
+    </ProgramInfo>
+
+    <ServerInfo>
+        <ipv4>
+            127.0.0.1
+        </ipv4>
+        <LogLevel>
+            <!--Extensive = Everything, Normal = Most Errors ,Minimal = Only Heavy Errors-->
+            Normal
+        </LogLevel>
+    </ServerInfo>
+
+    <ClientInfo>
+        <LocalLog>
+            <!-- if true log data to /var/log/-->
+            true
+        </LocalLog>
+        <LogLevel>
+            <!--Extensive = Everything, Normal = Most Errors ,Minimal = Only Heavy Errors-->
+            Normal
+        </LogLevel>
+    </ClientInfo>
+
+</Config>

@@ -3,5 +3,6 @@ Return values of the programs and what they mean
 Client:
     0 - Success
     1 - Invalid Arguments
+    5 - Failed to execute smartctl
 
 Server:
